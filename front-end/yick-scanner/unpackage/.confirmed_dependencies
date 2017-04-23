@@ -1,0 +1,74 @@
+{
+	"index.html": {
+		"resources": [
+			"css/common.css",
+			"js/update.js",
+			"js/shortcut.js",
+			"js/immersed.js",
+			"js/common.js",
+			"js/app.js",
+			"js/index.js"
+		],
+		"refer": [
+			"plus/camera.html",
+			"plus/uploader.html",
+			"plus/xhr.html",
+			"plus/webview.html",
+			"plus/nativeui.html",
+			"about.html",
+			"show.html"
+		]
+	},
+	"plus/camera.html": {
+		"resources": [
+			"js/common.js"
+		]
+	},
+	"plus/uploader.html": {
+		"refer": [
+			"plus/uploader_ret.html",
+			"plus/doc.html"
+		],
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"plus/xhr.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"js/immersed.js"
+		]
+	},
+	"doc/uploader.html": {
+		"resources": [
+			"doc/res/doc.css",
+			"doc/res/prettify.js",
+			"doc/res/prettify.sons.css",
+			"doc/res/doc.js"
+		]
+	},
+	"plus/doc.html": {
+		"refer": [
+			"doc/uploader.html"
+		]
+	},
+	"about.html": {
+		"resources": [
+			"js/common.js",
+			"css/common.css",
+			"img/qr.png",
+			"js/immersed.js"
+		]
+	},
+	"show.html": {
+		"resources": [
+			"js/common.js",
+			"js/app.js",
+			"css/common.css",
+			"js/show.js"
+		]
+	}
+}

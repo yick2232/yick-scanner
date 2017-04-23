@@ -1,0 +1,23 @@
+2017-04-11 - V2.0.0
+  * 前端展示页面完成，不报错但无法真实保存至手机联系人
+  * show.html --> index.html 还没有清空files
+
+2017-03-17 - V1.0.4
+  * 将识别的结果存入数据库
+
+2017-03-16 - V1.0.3
+  * 确定基本的技术路线
+  * 确定基本的技术框架
+  * 确定基本的目录结构
+
+2017-03-16 - V1.0.2
+  * 后端开发暂时完成
+  * 连接mongo(后续工作)
+  * 优化识别效果(后续工作)
+
+2017-02-28 - V1.0.1
+  * Add empty files in directory.
+  * Add some infomation to README.md
+  * Add ChangLog file.
+
+2017-02-28 - V1.0 of open source yick-scanner checked-in.
